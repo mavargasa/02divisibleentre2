@@ -1,21 +1,9 @@
 body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-}
-
-h1 {
-  color: #333;
-}
-
-input {
-  padding: 5px;
-  margin: 10px;
-}
-
-button {
-  padding: 10px 20px;
-}
-
-#resultadoDiv {
-  margin: 20px;
-}
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
